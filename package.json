@@ -1,6 +1,6 @@
 {
   "name": "electron-updater-example",
-  "version": "0.7.1",
+  "version": "0.7.5",
   "main": "main.js",
   "description": "electron-updater example project",
   "author": "Matt Haggard",
@@ -21,7 +21,8 @@
       {
         "provider": "github",
         "owner": "jian10au",
-        "repo": "electron-updater-example"
+        "repo": "electron-updater-example",
+        "token": "6d9980730c537a522ff5d90f2c8b8b343d90a28a"
       }
     ],
     "appId": "com.github.iffy.electronupdaterexample",
