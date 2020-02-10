@@ -21,8 +21,7 @@
       {
         "provider": "github",
         "owner": "jian10au",
-        "repo": "electron-updater-example",
-        "token": "6b9b61923687d00e31ccc4b02dfdde58682ed833"
+        "repo": "electron-updater-example"
       }
     ],
     "appId": "com.github.iffy.electronupdaterexample",
